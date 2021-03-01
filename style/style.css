@@ -1,9 +1,13 @@
-.instagram-logo
-{
-    width: 180px;
-    height: 55px;
-
-    background: url(../img/32f0a4f27407.png);
-    background-position: 0 -180;
+* {
+   padding: 0; 
+   margin: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+   font-family: sans-serif;
+   font-size: 14px;
 }
 
+body {
+    width: 100%;
+    min-height: ;
+}
